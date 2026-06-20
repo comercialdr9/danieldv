@@ -1,130 +1,111 @@
 <div align="center">
 
-# 👨‍💻 Daniel Romeiro
+# Daniel Romeiro
 
-### Linux • Python • Automação • Inteligência Artificial
+### Linux • Automação • Python • IA
+
+Construindo soluções que economizam tempo e resolvem problemas reais.
 
 <p>
-  <a href="https://instagram.com/dr9.dev">
-    <img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/@dr9.dev-E4405F?logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://instagram.com/dr9.dev">
+<img src="https://custom-icon-badges.demolab.com/badge/Instagram-dr9.dev-E4405F?logo=instagram&logoColor=white">
+</a>
 
-  <a href="https://youtube.com/@dr9dev">
-    <img alt="YouTube" src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?logo=video&logoColor=white"/>
-  </a>
+<a href="https://github.com/comercialdr9">
+<img src="https://custom-icon-badges.demolab.com/badge/GitHub-comercialdr9-181717?logo=github&logoColor=white">
+</a>
 
-  <a href="https://github.com/comercialdr9">
-    <img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=white"/>
-  </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=comercialdr9&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+# 👨‍💻 Sobre
 
-Sou Técnico de TI e desenvolvedor focado em criar soluções que eliminam tarefas repetitivas.
+Sou Técnico de TI e Desenvolvedor Python focado em automação, Linux e inteligência artificial.
 
-Atualmente desenvolvo projetos envolvendo:
+Meu trabalho consiste em eliminar tarefas repetitivas, simplificar processos e transformar ideias em ferramentas úteis.
 
-* 🐧 Linux
-* 🐍 Python
-* ⚡ Automação
-* 🤖 Inteligência Artificial
-* 🔗 APIs
-* ☁️ Open Source
+Atualmente estudo e desenvolvo:
 
-Meu objetivo é transformar processos manuais em sistemas simples e eficientes.
-
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,vscode,sqlite"/>
-
-</p>
+* Automações Python
+* Linux Desktop e Servidores
+* Inteligência Artificial
+* Integrações com APIs
+* Ferramentas Open Source
 
 ---
 
-## 📂 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-### 📁 Organizador Inteligente de Downloads
+## Smart Downloads
 
-Automação que organiza arquivos automaticamente por categoria.
+Organização automática de arquivos na pasta Downloads.
 
-### 🤖 IA e Automação
-
-Projetos utilizando APIs e Inteligência Artificial para aumentar produtividade.
-
-### 🐧 Linux Toolkit
-
-Scripts úteis para manutenção, backup e administração de sistemas Linux.
+**Tecnologias**
+Python • Linux • Automação
 
 ---
 
-## 📊 Estatísticas
+## Linux Toolkit
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=comercialdr9&show_icons=true&theme=github_dark"/>
+Coleção de scripts para produtividade, manutenção e administração de sistemas Linux.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comercialdr9&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=comercialdr9&theme=github-dark-blue"/>
-</p>
+**Tecnologias**
+Bash • Python • Linux
 
 ---
 
-## 🏆 Conquistas
+## AI Automation Lab
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=comercialdr9&theme=algolia&margin-w=15&margin-h=15"/>
-</p>
+Experimentos e aplicações práticas com IA e automação.
 
----
-
-## 🎯 Atualmente
-
-```python
-daniel = {
-    "cargo": "Técnico de TI",
-    "foco": [
-        "Linux",
-        "Python",
-        "Automação",
-        "IA"
-    ],
-    "projeto_atual": "Construindo a marca dr9.dev",
-    "objetivo": "Criar soluções reais com tecnologia"
-}
-```
+**Tecnologias**
+Python • APIs • IA
 
 ---
 
-## 🌎 Onde Me Encontrar
+# 🛠 Stack Principal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,vscode"/>
+
+</div>
+
+---
+
+# 📈 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=comercialdr9&show_icons=true&rank_icon=github&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Objetivos para 2026
+
+* Criar ferramentas open source
+* Compartilhar conhecimento sobre Linux
+* Desenvolver projetos de automação
+* Construir a marca dr9.dev
+* Documentar projetos reais
+
+---
+
+# 🌎 Conecte-se
 
 📸 Instagram: @dr9.dev
 
-🎥 YouTube: @dr9dev
-
 💻 GitHub: github.com/comercialdr9
+
+🚀 Compartilhando projetos, automações e tecnologia.
 
 ---
 
-### 💡 Filosofia
-
-Automatize o que é repetitivo.
-
-Simplifique o que é complexo.
-
-Construa algo útil todos os dias.
+> Automatizar não é apenas economizar tempo.
+>
+> É criar espaço para fazer coisas mais importantes.
