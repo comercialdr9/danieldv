@@ -1,59 +1,52 @@
-<h1 align="center">Olá, eu sou Daniel Romeiro 👋</h1>
+# Daniel Romeiro 👋
 
-<h3 align="center">
-Técnico de TI • Programador Python • Linux Enthusiast
-</h3>
+💻 Técnico de TI e Programador
 
----
+🐧 Especialista em Linux
 
-## 🚀 Sobre mim
+⚡ Automação de processos com Python
 
-💻 Técnico de TI apaixonado por tecnologia
-
-🐧 Usuário Linux no dia a dia
-
-⚡ Desenvolvedor de automações para eliminar tarefas repetitivas
-
-🤖 Explorando IA, APIs e automação de processos
+🤖 IA, APIs e produtividade
 
 ---
 
-## 🛠 Tecnologias
+## Sobre mim
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Transformo tarefas manuais em processos automáticos.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Atuo com suporte técnico, Linux, Python, automação e inteligência artificial.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📂 Projetos
-
-### Organizador Inteligente de Downloads
-
-Script em Python que separa arquivos automaticamente por categoria.
-
-### Automação de Atendimento
-
-Integração com APIs para reduzir trabalho manual.
-
-### Scripts Linux
-
-Ferramentas para otimizar tarefas do dia a dia.
+Meu objetivo é criar soluções simples para problemas reais.
 
 ---
 
-## 📊 Estatísticas
+## Projetos em Destaque
 
-![Stats](https://ghstats.dev/api/card?username=SEU_USUARIO)
+### 📂 Organizador Inteligente de Downloads
+
+Automatiza a organização de arquivos em pastas.
+
+Tecnologias:
+Python • Linux • Automação
+
+### 🤖 Automações com IA
+
+Integrações e fluxos automatizados para empresas.
+
+### 🐧 Scripts Linux
+
+Ferramentas para otimizar produtividade e administração de sistemas.
 
 ---
 
-## 📫 Contato
+## Tecnologias
 
-📧 seuemail@email.com
+Python • Linux • Git • Bash • APIs • Docker
+
+---
+
+## Contato
 
 📷 Instagram: @dr9.dev
 
-🌐 Em breve: portfólio pessoal
+📧 contato@seudominio.com
