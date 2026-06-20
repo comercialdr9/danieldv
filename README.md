@@ -1,70 +1,117 @@
-# Daniel Romeiro 👋
+<div align="center">
 
-### Técnico de TI • Python • Linux • Automação • IA
+# 👨‍💻 Daniel Romeiro
 
-Transformando tarefas repetitivas em soluções inteligentes.
+### Linux • Python • Automação • Inteligência Artificial
 
----
+<p>
+  <a href="https://instagram.com/dr9.dev">
+    <img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/@dr9.dev-E4405F?logo=instagram&logoColor=white"/>
+  </a>
 
-## 🚀 O que eu faço
+  <a href="https://youtube.com/@dr9dev">
+    <img alt="YouTube" src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?logo=video&logoColor=white"/>
+  </a>
 
-⚡ Automação de processos
+  <a href="https://github.com/comercialdr9">
+    <img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=white"/>
+  </a>
+</p>
 
-🐍 Desenvolvimento Python
+<img src="https://komarev.com/ghpvc/?username=comercialdr9&style=for-the-badge" />
 
-🐧 Linux e Open Source
-
-🤖 Inteligência Artificial
-
-🔗 Integração com APIs
-
-💻 Suporte e Infraestrutura
-
----
-
-## 📺 Conteúdo
-
-Compartilho projetos reais, automações, dicas de Linux e bastidores do desenvolvimento.
-
-### Últimos temas
-
-* Automação de Downloads com Python
-* Linux para produtividade
-* Inteligência Artificial aplicada ao dia a dia
-* Scripts úteis para empresas
-* Ferramentas Open Source
+</div>
 
 ---
 
-## 🛠 Stack
+## 🚀 Sobre Mim
 
-Python • Linux • Git • Bash • APIs • Docker • IA
+Sou Técnico de TI e desenvolvedor focado em criar soluções que eliminam tarefas repetitivas.
+
+Atualmente desenvolvo projetos envolvendo:
+
+* 🐧 Linux
+* 🐍 Python
+* ⚡ Automação
+* 🤖 Inteligência Artificial
+* 🔗 APIs
+* ☁️ Open Source
+
+Meu objetivo é transformar processos manuais em sistemas simples e eficientes.
 
 ---
 
-## 📂 Projetos
+## 🛠️ Tecnologias
 
-### Organizador Inteligente de Downloads
+<p align="center">
 
-Automação para organizar arquivos automaticamente.
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,vscode,sqlite"/>
 
-### Scripts Linux
+</p>
 
-Ferramentas para administração e produtividade.
+---
 
-### Projetos com IA
+## 📂 Projetos em Destaque
 
-Automações e integrações inteligentes.
+### 📁 Organizador Inteligente de Downloads
+
+Automação que organiza arquivos automaticamente por categoria.
+
+### 🤖 IA e Automação
+
+Projetos utilizando APIs e Inteligência Artificial para aumentar produtividade.
+
+### 🐧 Linux Toolkit
+
+Scripts úteis para manutenção, backup e administração de sistemas Linux.
 
 ---
 
 ## 📊 Estatísticas
 
-<!-- GitHub Stats -->
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=comercialdr9&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comercialdr9&layout=compact&theme=github_dark"/>
+</p>
 
 ---
 
-## 🌎 Redes
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=comercialdr9&theme=github-dark-blue"/>
+</p>
+
+---
+
+## 🏆 Conquistas
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=comercialdr9&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🎯 Atualmente
+
+```python
+daniel = {
+    "cargo": "Técnico de TI",
+    "foco": [
+        "Linux",
+        "Python",
+        "Automação",
+        "IA"
+    ],
+    "projeto_atual": "Construindo a marca dr9.dev",
+    "objetivo": "Criar soluções reais com tecnologia"
+}
+```
+
+---
+
+## 🌎 Onde Me Encontrar
 
 📸 Instagram: @dr9.dev
 
@@ -74,8 +121,10 @@ Automações e integrações inteligentes.
 
 ---
 
-## 💡 Minha missão
+### 💡 Filosofia
 
-Mostrar que tecnologia não precisa ser complicada.
+Automatize o que é repetitivo.
 
-Automação, Linux e IA para resolver problemas reais.
+Simplifique o que é complexo.
+
+Construa algo útil todos os dias.
